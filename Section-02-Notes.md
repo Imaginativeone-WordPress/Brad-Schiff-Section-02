@@ -1,4 +1,4 @@
-	- [ ] 02/24 Getting Started 3 lectures • 31min
-		- [ ] 002 What is a Dev Environment? (Your First Installation) Preview | 13:34
-		- [ ] 003 If You're Unable to Install Local by Flywheel | 00:33
-		- [ ] 004 First Taste of PHP Preview | 16:31
+- [ ] 02/24 Getting Started 3 lectures • 31min
+	- [ ] 002 What is a Dev Environment? (Your First Installation) Preview | 13:34
+	- [ ] 003 If You're Unable to Install Local by Flywheel | 00:33
+	- [ ] 004 First Taste of PHP Preview | 16:31
