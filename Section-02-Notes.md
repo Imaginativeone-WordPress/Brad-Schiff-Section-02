@@ -1,0 +1,4 @@
+- [ ] Section 2: Getting Started 3 / 3 | 31min
+  - 002 [ ] What is a Dev Environment? (Your First Installation) 14min
+  - 003 [ ] If You're Unable to Install Local by Flywheel 1min
+  - 004 [ ] First Taste of PHP
